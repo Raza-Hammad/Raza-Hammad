@@ -29,7 +29,7 @@ Some of my work includes:
 - ✅ Security Tools for Admin Access  
 - ✅ Educational and Productivity Applications
 
-Check out my projects here: [TechTrove Repository](https://github.com/Raza-Hammad/TechTrove)
+🔗 **Check out [My Projects](https://github.com/Raza-Hammad)**
 
 ---
 
